@@ -1,15 +1,18 @@
 # Drashti Dave
 ### My Portfolio
+Hello! I am Drashti. A Physics student and an aspiring Data Scientist.
+
+
 
 ### Education:
 - B.Sc.(Hons) Physics from IIS University,Jaipur (2019-2022)
 - B.Sc. in Programming and Data Science, IIT Madras Online degree (2020- )
 
 ### Skills:
-- AutoCAD
-- Adobe Illustrator
-- Python programming
-- Java and C++
+- AutoCAD 💜💜💜
+- Adobe Illustrator 💜💜
+- Python programming 💜💜💜💜
+- Java and C++ 💜💜
 
 - Some of my illustrator work: \
 ![portrait](/images/portrait.PNG)
@@ -28,3 +31,6 @@
 - Reading
 - Listening to kpop
 - Dancing (only when I'm alone!)
+
+### Contact me:
+- email at: drash252@gmail.com
