@@ -11,11 +11,11 @@
 - Python programming
 - Java and C++
 
-Some of my illustrator work:
-![portrait](/images/portrait.png)
+- Some of my illustrator work: \
+![portrait](/images/portrait.PNG)
 
 
-### Current Project : Research on materials using DFT
+### [Current Project : Research on materials using DFT](https://www.sciencedirect.com/topics/physics-and-astronomy/density-functional-theory)
 - Research on computational Physics
 - Worked on python scripts in order to find thermal conductivity of materials using Debye Callaway model.
 - Basis of the research is DFT: Density Functional theory.
