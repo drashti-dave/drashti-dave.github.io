@@ -12,6 +12,7 @@
 - Java and C++
 
 Some of my illustrator work:
+![portrait](/images/portrait.png)
 
 
 ### Current Project : Research on materials using DFT
